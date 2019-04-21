@@ -1,0 +1,62 @@
+these derivations will be built:
+  /nix/store/11z65hiv57ljzh8rxxhbxjjjx0v6d83g-rust_rand_core-0.4.0.drv
+  /nix/store/plqi8rd106s1i868xnhxd7q3vc32ggk7-utf-8-0.7.5.tar.gz.drv
+  /nix/store/42q09hskg5rc3b9z3xwkyz7wjqwknl4j-rust_utf-8-0.7.5.drv
+  /nix/store/h32rd317yygjf4kzcjvd363mq16m42qw-rust_unicode-xid-0.1.0.drv
+  /nix/store/4z410n522ckkib0f4wisx52kpjpavxw7-rust_proc-macro2-0.4.27.drv
+  /nix/store/5fbxszqgj01p49krya6npx0axnf1vybf-rust_rand_jitter-0.1.3.drv
+  /nix/store/5zqwrzk6nchq8rpbsivrcapsp5m8if9i-syn-0.15.32.tar.gz.drv
+  /nix/store/6rlipdvxl011kxnx5r3fz01b7jjcazhc-rust_rand_os-0.1.3.drv
+  /nix/store/m6z79dsij0lr7bzdwpnc8hb7bnbza7x4-rust_siphasher-0.2.3.drv
+  /nix/store/9d4pdld4nbn8qfq5hq4x1wdfal343286-rust_phf_shared-0.7.24.drv
+  /nix/store/w3y5b51qqd0g2s0qf9qh4ff1d5cbf7hz-rust_rand_core-0.3.1.drv
+  /nix/store/dr90mr6z7q28zsjzjnvnx34vx33l1cq8-rust_rand_isaac-0.1.1.drv
+  /nix/store/gzvha7av5flrycgiqh921skhavy643jd-rust_rand_chacha-0.1.1.drv
+  /nix/store/jbpbz1mdhnpbgcrbjprfp55lxy87f0m7-rust_rand_pcg-0.1.2.drv
+  /nix/store/l7za4m4ja1zbwl9ddhz7wibpvlhki84g-rust_rand_xorshift-0.1.1.drv
+  /nix/store/lhszyc366sfmcajnisimr42a1n6419xh-rust_rand_hc-0.1.0.drv
+  /nix/store/pbzkrjwfad3bzaa6l9wbdgpry3prvp59-rust_rand-0.6.5.drv
+  /nix/store/619zfdj3zi1c21r4f1cfvh9wc2mkib4r-rust_phf_generator-0.7.24.drv
+  /nix/store/clwgsm4nb53v4j9cqscrj4gi6chlbkxk-string_cache-0.7.3.tar.gz.drv
+  /nix/store/lm7mza8a0c1m4zgdhbmyn00yh83lq9gq-rust_quote-0.6.12.drv
+  /nix/store/wi36vsaxwyg8fpgici9wajcrxmc9bj3m-serde-1.0.90.tar.gz.drv
+  /nix/store/nmwhnlli0903px18zcgygw20kihrsjjz-rust_serde-1.0.90.drv
+  /nix/store/cvk6899wqppxlvrrmxv265m0sq4yz198-string_cache_codegen-0.4.2.tar.gz.drv
+  /nix/store/k43969wvvl2ag6ck7s370zc454k2a3l4-string_cache_shared-0.3.0.tar.gz.drv
+  /nix/store/vphm33cahkl6p7zdfyg1wjkfwmf8m10v-rust_string_cache_shared-0.3.0.drv
+  /nix/store/s8q52j2g2ibfgfwn6gcnx6xj4ng5q327-rust_string_cache_codegen-0.4.2.drv
+  /nix/store/82sh3x89xcq8bza03sh30x5yma9a0zzw-rust_string_cache-0.7.3.drv
+  /nix/store/d01snsak7faacc5k7cf2ypsblccpjp3z-rust_phf_codegen-0.7.24.drv
+  /nix/store/qaxl0ryxa88660dn9jqq92k5g2wpk1lk-rust_ryu-0.2.7.drv
+  /nix/store/g9rv3m1k7v4kksz0m7kz12raa0w1s771-rust_serde_json-1.0.39.drv
+  /nix/store/r9aa27lqbakxvhwgki5pw57xr756vkgd-rust_syn-0.15.32.drv
+  /nix/store/v7ap3bf8rb3zv3lskdghkyy0rh2xl6ja-serde_derive-1.0.90.tar.gz.drv
+  /nix/store/gf5sr56yi2kd1dfm738ilfpm28vl931x-rust_serde_derive-1.0.90.drv
+  /nix/store/v3xsfl64zmdh1c0l7z1l3wxc3np1y1md-rust_futf-0.1.4.drv
+  /nix/store/y8j038f62vhzls6kwdh6ihggqscnw151-tendril-0.4.1.tar.gz.drv
+  /nix/store/vjzc2v1fmlxf78c0dh6iin51cyz53c3b-rust_tendril-0.4.1.drv
+  /nix/store/vw6vsp6pihlmcvwgiphyd83gpkj2pwpd-rust_phf-0.7.24.drv
+  /nix/store/j64ihfp5vwl8dq48zxzbfk8084r09jix-rust_markup5ever-0.7.5.drv
+  /nix/store/8646q16ccflm2kh7hygxjbivsk59x76z-rust_html5ever-0.22.5.drv
+  /nix/store/f9fnw5f2n5n7gp2f8mj9j7fk6ln3ainz-rust_crate2nix-test-0.1.0.drv
+building '/nix/store/v3xsfl64zmdh1c0l7z1l3wxc3np1y1md-rust_futf-0.1.4.drv'...
+unpacking sources
+unpacking source archive /nix/store/68p8dn8lqlcivd6ki3rvycsmh7b1vbja-futf-0.1.4.tar.gz
+source root is futf-0.1.4.tar.gz
+patching sources
+configuring
+building
+Building src/lib.rs (futf)
+Running rustc --crate-name futf src/lib.rs --crate-type lib -C opt-level=3 -C codegen-units=4 --edition 2015 -C metadata=7a698c1757 -C extra-filename=-7a698c1757 --out-dir target/lib --emit=dep-info,link -L dependency=target/deps --extern mac=/nix/store/bjcw280v92drg93d89zpkh997xljfl89-rust_mac-0.1.1/lib/libmac-c77a325080.rlib --extern new_debug_unreachable=/nix/store/qz5ffk70ibllz27awjnpp9v7rbcrxnq5-rust_new_debug_unreachable-1.0.3/lib/libnew_debug_unreachable-6437ae92c0.rlib --cap-lints allow --color always
+error[E0463]: can't find crate for `debug_unreachable`
+  --> src/lib.rs:10:1
+   |
+10 | extern crate debug_unreachable;
+   | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ can't find crate
+
+error: aborting due to previous error
+
+For more information about this error, try `rustc --explain E0463`.
+builder for '/nix/store/v3xsfl64zmdh1c0l7z1l3wxc3np1y1md-rust_futf-0.1.4.drv' failed with exit code 1
+cannot build derivation '/nix/store/f9fnw5f2n5n7gp2f8mj9j7fk6ln3ainz-rust_crate2nix-test-0.1.0.drv': 1 dependencies couldn't be built
+error: build of '/nix/store/f9fnw5f2n5n7gp2f8mj9j7fk6ln3ainz-rust_crate2nix-test-0.1.0.drv' failed
