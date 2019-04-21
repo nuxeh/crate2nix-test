@@ -5,4 +5,4 @@ authors = ["Ed Cragg <drq.11235@gmail.com>"]
 edition = "2018"
 
 [dependencies]
-new_debug_unreachable = "1.0.3"
+html5ever = "0.22.5"
